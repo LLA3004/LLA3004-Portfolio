@@ -15,7 +15,12 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    padding: 2rem; /* Adicionado para espaçamento interno */
+    padding: 2rem; 
+    background-image: url(../imagens/Vetor_Eu_V2.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 500px;
+    box-sizing: border-box;
 }
 
 h1 {
@@ -50,5 +55,5 @@ h2 {
 }
 
 a:hover {
-    background-color: blanchedalmond;
+    background-color: rgb(10, 107, 44);
 }
